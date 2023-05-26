@@ -4,12 +4,12 @@ namedValues:
     properties:
       displayName: cachettlduration
       value: "3600"
-  - name: APIKey
-    properties:
-      displayName: APIKey
-      keyVault:
-        identityClientId: 0325c75a-d8b8-4018-ba32-76ca34be2da3
-        secretIdentifier: https://skd-kv.vault.azure.net/secrets/my-secret
+#  - name: APIKey
+#    properties:
+#      displayName: APIKey
+#      keyVault:
+#        identityClientId: 0325c75a-d8b8-4018-ba32-76ca34be2da3
+#        secretIdentifier: https://skd-kv.vault.azure.net/secrets/my-secret
 loggers:
     - name: apim-lab-insights
       properties:
