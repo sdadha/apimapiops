@@ -8,7 +8,7 @@ namedValues:
     properties:
       displayName: APIKey
       keyVault:
-        identityClientId: 51a57863-a705-42d7-81d5-bce544a0116a
+        identityClientId: 374fe861-a30b-4fd6-85ac-5ec440c2b9c5
         secretIdentifier: https://skd-kv.vault.azure.net/secrets/my-secret
 loggers:
     - name: apim-lab-insights
